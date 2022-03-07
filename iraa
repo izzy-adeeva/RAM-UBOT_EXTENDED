@@ -60,7 +60,7 @@ _start () {
 
     echo "••• DOWNLOAD COMPLETE •••"
 
-    python3 -m userbot
+    python3 -m ramext
 }
 
 _start
