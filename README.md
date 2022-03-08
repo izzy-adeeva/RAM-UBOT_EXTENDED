@@ -1,5 +1,5 @@
 
-<h1 align="center"><img width="35px">RAMA CABUL USERBOT
+<h1 align="center"><img width="35px">RAM UBOT
 <p align="center"><img src="https://telegra.ph/file/e62dcb31e02594af0fab4.png" width="500"></p>
 <p align="center">
 <p align="center">
