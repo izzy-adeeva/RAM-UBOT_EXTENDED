@@ -16,7 +16,7 @@
    Lmao,Use Heroku Again Bruhh..
 </h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hitokizzy/RAM-UBOT_EXTENDED/blob/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=aGl0b2tpenp5L1JBTS1VQk9UX0VYVEVOREVEIG1hc3Rlcg)
 
 
 ### Group Support 
