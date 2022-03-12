@@ -17,7 +17,7 @@ Deploy to Heroku
 </h2>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=aGl0b2tpenp5L1JBTS1VQk9UX0VYVEVOREVEIG1hc3Rlcg)
-
+- [Nutella](https://heroku.com/deploy?template=https://github.com/hitokizzy/RAM-UBOT_EXTENDED)
 
 ### Group Support 
 <a href="https://t.me/ramsupportt"><img src="https://img.shields.io/badge/Join-Group%20Support1-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/GeezSupport"><img src="https://img.shields.io/badge/Join-Groups%20Support2-blue.svg?style=for-the-badge&logo=Telegram"></a>
